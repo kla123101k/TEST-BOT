@@ -1,1 +1,1 @@
-plazy: node bot.js
+plazy: node app.js
