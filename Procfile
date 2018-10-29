@@ -1,1 +1,1 @@
-plazy: node app.js
+RandelBot: node bot.js
